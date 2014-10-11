@@ -3,9 +3,16 @@ html {
   color: white;
   }
  body { 
-    background: #00ff00 url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10659015_866507656717314_5861674159782985017_o.jpg') no-repeat fixed center; 
-}
-  +#navigation { margin-top: lem; }
+   
+   div {
+    background: #00ff00 url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10659015_866507656717314_5861674159782985017_o.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+     }
+   
+ }
+ 
+   +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
   + background-color: #57F;
