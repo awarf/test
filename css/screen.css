@@ -5,8 +5,8 @@ html {
   +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
-  + background-color: #67F;
-  + color: #000;
+  + background-color: #37F;
+  + color: #0F0;
   + padding: .25em .5em;
   +}
   #footer {
