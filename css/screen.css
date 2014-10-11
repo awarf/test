@@ -6,9 +6,7 @@ html {
   color: white;
   }
  body {
-   table {
-    table-layout: fixed;
-}
+   table-layout: fixed;
 }
  
    +#navigation { margin-top: lem; }
