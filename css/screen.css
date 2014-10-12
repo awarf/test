@@ -1,21 +1,16 @@
 html {
-
-  background-color: black;
+  background-color: Black;
   color: white;
   }
-  body {text-align:center;}
-  
-
-    
   +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
   + background-color: #57F;
-  + color: #000;
+  + color: #0F0;
   + padding: .25em .5em;
   +}
   #footer {
   padding: 1.5em 5% 1.5em 5%;
-  backround-color: black;
+  background-color: black;
   color: white;
   }
