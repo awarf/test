@@ -3,19 +3,13 @@ html {
   background-color: black;
   color: white;
   }
-  table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
-  .box {
-    background-size: 100% 100%;
-    background-image: url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10659015_866507656717314_5861674159782985017_o.jpg');
-    background-repeat: no-repeat;
-    width:600px;
-    height:600px;
-    position:fixed;
+  body {text-align:center;}
   
-    top:35%;
+  table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  
     
    +#navigation { margin-top: lem; }
   +#navigation a {
