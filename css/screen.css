@@ -6,12 +6,12 @@ html {
   body {text-align:center;}
   
   table.center {
-    margin-left: auto; 
-    margin-right: auto;
+    margin-left:auto; 
+    margin-right:auto;
   }
   
     
-   +#navigation { margin-top: lem; }
+  +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
   + background-color: #57F;
