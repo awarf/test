@@ -7,11 +7,6 @@ html {
     width:600px;
     height:600px;
     position:fixed;
-    margin-top:auto;
-    margin-left:auto;
-    margin-right:auto;
-    margin-bottom:auto;
-
 }
   +#navigation { margin-top: lem; }
   +#navigation a {
