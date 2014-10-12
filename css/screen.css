@@ -2,6 +2,15 @@ html {
   background-color: Black;
   color: white;
   }
+  div.centered 
+{
+    text-align: center;
+}
+div.centered table 
+{
+    margin: 0 auto; 
+    text-align: left;
+}
   +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
