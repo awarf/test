@@ -7,10 +7,10 @@ html {
     width:600px;
     height:600px;
     position:fixed;
-    top:auto;
-    left:auto;
-    right:auto;
-    bottom:auto;
+    margin-top:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:auto;
 
 }
   +#navigation { margin-top: lem; }
