@@ -1,8 +1,13 @@
-html {
-  backround-color: black;
+html{
+	background:url('background.jpg') no-repeat center center;
+	min-height:100%;
+	background-size:cover;
+	backround-color: black;
   color: white;
-  }
-  
+}
+body{
+	min-height:100%;
+}  
 
 .box {
     width:600px;
