@@ -1,8 +1,4 @@
 html {
-    background: url(https://farm3.staticflickr.com/2807/11590184423_2b4d76d523_s.jpg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-color: Black;
   color: white;
   }
   
@@ -17,11 +13,13 @@ html {
 }
 #background {
     text-align: center;
-    width: 200%; 
+    width: 100%; 
     height: 100%; 
     position: fixed;
     left: 0px; 
-    top: 0px; 
+    top: 0px;
+    bottom:0;
+    right:0;
     z-index: -1;
 }
 
