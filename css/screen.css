@@ -4,10 +4,15 @@ html {
   background-repeat: no-repeat;
   background-color: Black;
   color: white;
-
 }
-  
-  }
+  .box {
+    width:300px;
+    height:300px;
+    position:fixed;
+    margin-left:-15px; 
+    margin-top:-15px;  
+    top:75%;
+    left:75%;  
   
    +#navigation { margin-top: lem; }
   +#navigation a {
