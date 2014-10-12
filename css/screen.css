@@ -7,9 +7,9 @@ html {
     width:600px;
     height:600px;
     position:fixed;
-    table:centered;
-    left=right
-    top=bottom
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
 }
   +#navigation { margin-top: lem; }
   +#navigation a {
