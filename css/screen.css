@@ -6,8 +6,8 @@ html {
   color: white;
 }
   .box {
-    width:3000px;
-    height:3000px;
+    width:1000px;
+    height:1000px;
     position:fixed;
     margin-left:-150px; 
     margin-top:-150px;  
