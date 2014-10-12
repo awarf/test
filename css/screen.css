@@ -5,11 +5,15 @@ html {
   }
   body {text-align:center;}
   
-  table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
+  table {
+  margin-left: auto;
+  margin-right: auto;
+}
   
+  .wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
     
   +#navigation { margin-top: lem; }
   +#navigation a {
