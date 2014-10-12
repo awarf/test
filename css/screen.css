@@ -11,6 +11,10 @@ div.centered table
     margin: 0 auto; 
     text-align: left;
 }
+table{
+margin-left: auto;
+margin-right: auto;
+}
 .box {
     width:600px;
     height:600px;
