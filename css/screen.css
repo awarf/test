@@ -1,6 +1,6 @@
 html{
 	background:url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-xfp1/t31.0-8/10556935_867743689927044_4349174940605546361_o.jpg') no-repeat center center;
-	min-height:80%;
+	min-height:100%;
 	background-size:cover;
 }
 
@@ -20,7 +20,7 @@ body{
     margin: auto;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
-    height:100%;
+    height:80%;
 }
   +#navigation { margin-top: lem; }
   +#navigation a {
