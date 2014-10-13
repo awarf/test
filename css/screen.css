@@ -22,6 +22,36 @@ body{
     top: 0; left: 0; bottom: 0; right: 0;
     height:100%;
 }
+#header ul {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  z-index: 9999;
+}
+
+#header li {
+  list-style: none;
+  display: inline-block;
+  /*padding: 1.5%;*/
+  margin: 0 1.9% 0 1.9%;
+  color: #756583;
+  text-transform: uppercase;
+  z-index: 9999;
+  text-align: center;
+}
+
+#li-left {
+  margin-left: 0 !important;
+}
+
+#li-right {
+  margin-right: 0 !important;
+}
+
+#header img {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
   +#navigation { margin-top: lem; }
   +#navigation a {
   + display: inline-block;
