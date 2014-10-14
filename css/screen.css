@@ -24,8 +24,7 @@ body{
 .box {
     background-color: black;
     color: white;
-    width:600px;
-    height:300px;
+
     position:fixed;
     margin: auto;
     position: absolute;
