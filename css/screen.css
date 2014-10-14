@@ -22,15 +22,16 @@ body{
 	
 }
 .box {
-    background-color: black;
+    background-color: clear;
     color: white;
-
     position:fixed;
- 
-    top: 50%;
-    left: 50%;
-    margin-top: 50%;
-    margin-left: 50%;
+    margin: auto;
+    position: absolute;
+    width:600px;
+    height:300px;    
+    top: 0; left: 0; bottom: 0; right: 0;
+    height:80%;
+
 }
 
   +#navigation { margin-top: lem; }
