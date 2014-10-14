@@ -29,8 +29,10 @@ body{
     position:fixed;
     margin: auto;
     position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
-    height:80%;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
 }
 
   +#navigation { margin-top: lem; }
