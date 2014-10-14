@@ -22,7 +22,7 @@ html{
     width:600px;
     height:300px;
     position: absolute;
-    top: 50%; left: 50%; bottom: 50%; right: 50%;
+    top: 50%; left: 50%; bottom: 100%; right: -50%;
     height:80%;
 
 +#navigation { margin-top: lem; }
