@@ -14,13 +14,13 @@ form {
 		border-radius: 5px; 
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
 		overflow: hidden; 
-		width: 50%;
-		color: white;
+		
+		
     position:fixed;
     margin: auto;
     width:800px;
     position: absolute;
-    left:0; right:0; 
+    left:0; right:0; top:0; bottom:0; 
 		
 	}
 		
