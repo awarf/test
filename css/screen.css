@@ -13,14 +13,8 @@ form {
 		border: 1px solid #c6c7cc; 
 		border-radius: 5px; 
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
-		overflow: hidden; 
-		
-		
-    position:fixed;
-    margin: auto;
-    width:800px;
-    position: absolute;
-    left:0; right:0; top:0; bottom:0; 
+		overflow: hidden;
+		width: 240px;
 		
 	}
 		
@@ -36,7 +30,7 @@ input {
 		margin: 0; 24. } 25. .account-info { 26. padding: 20px 20px 0 20px;
 	} 
 
-.account-info label {
+ /*.account-info label {
 		color: #395870; 30. display: block;
 		font-weight: bold; 32. margin-bottom: 20px;
 				  }
@@ -66,16 +60,16 @@ input {
 		color: #fff; 
 		cursor: pointer; 
 		font-weight: bold; 
-		float: right; 
+		float: left; 
 		padding: 8px 16px; 
 				    }
 
 .account-action label {
 	color: #7c7c80;
 	font-size: 12px; 
-	float: right; 
+	float: left; 
 	margin: 10px 0 0 20px;
-
+*/
 .box {
 
     color: blue;
