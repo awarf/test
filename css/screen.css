@@ -50,7 +50,6 @@ input {
 		padding: 6px;
 		margin-top: 6px; 
 		width: 100%;
-		right:0; left:0 top:0; bottom:0;
 				  } 
 
 .account-action {
@@ -79,14 +78,13 @@ input {
 
 .box {
 
-    color: white;
+    color: blue;
     position:fixed;
     margin: auto;
     width:600px;
     height:300px;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
-    height:0;
-    float:right;
+
 	}
 
