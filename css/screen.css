@@ -87,9 +87,9 @@ position: relative;
 background-image:url(https://ssl.gstatic.com/images/logos/google_logo_41.png) no-repeat center;
 }
 
-/*#header{
+#header{
 
 background:url(https://ssl.gstatic.com/images/logos/google_logo_41.png) no-repeat center;
 width:100%;
 height:100%;
-}*/
+}
