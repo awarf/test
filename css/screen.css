@@ -1,5 +1,19 @@
-html{
-	
+html {
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  }
+
+
+
+html {
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+	line-height: 1em;
+	font-size: .824em;
 }
 *,
 *: before, 
@@ -7,7 +21,7 @@ html{
 		-webkit-box-sizing: border-box; 
 		-moz-box-sizing: border-box; 
 		box-sizing: border-box;
-		left:0; right:0; top:0; bottom:0;
+
 	   } 
 		
 form {
@@ -16,7 +30,7 @@ form {
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
 		overflow: hidden;
 		width: 350px;
-		left:0; right:0; top:0; bottom:0;
+		
 		
 	}
 		
@@ -24,20 +38,17 @@ fieldset {
 		border: 0; 
 		margin: 0; 
 		padding: 0;
-		left:0; right:0; top:0; bottom:0;
 	   }
 
 input {
 		border-radius: 5px;
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
 		margin: 0; 24. } 25. .account-info { 26. padding: 20px 20px 0 20px;
-		left:0; right:0; top:0; bottom:0;
 	} 
 
 .account-info label {
 		color: #395870; 30. display: block;
 		font-weight: bold; 32. margin-bottom: 20px;
-		left:0; right:0; top:0; bottom:0;
 				  }
 		
 .account-info input {
@@ -49,14 +60,12 @@ input {
 		padding: 6px;
 		margin-top: 6px; 
 		width: 100%;
-		left:0; right:0; top:0; bottom:0;
 				  } 
 
 .account-action {
 		background: #f0f0f2; 
 		border-top: 1px solid #c6c7cc; 
 		padding: 20px; 
-		left:0; right:0; top:0; bottom:0;
 				}
 
 .account-action .btn {
@@ -69,7 +78,6 @@ input {
 		font-weight: bold; 
 		float: left; 
 		padding: 8px 16px; 
-		left:0; right:0; top:0; bottom:0;
 				    }
 
 .account-action label {
@@ -77,4 +85,4 @@ input {
 	font-size: 12px; 
 	float: left; 
 	margin: 10px 0 0 20px;
-	left:0; right:0; top:0; bottom:0;
+}
