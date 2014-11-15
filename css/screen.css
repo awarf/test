@@ -74,6 +74,7 @@ input {
 .center { 
 		color: blue;
     		position: relative;
+    		margin: auto;
     		top: 30%; bottom: 0; right: 0; left: 0;
-    		margin:auto;
+    	
 }
