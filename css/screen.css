@@ -11,7 +11,7 @@ html{
 	   } 
 		
 form {
-		background:url('https://ssl.gstatic.com/images/logos/google_logo_41.png') center;
+		background:url('https://ssl.gstatic.com/images/logos/google_logo_41.png') no-repeat top center;
 		border: 1px solid #c6c7cc; 
 		border-radius: 5px; 
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
