@@ -26,10 +26,7 @@ fieldset {
 		margin: 0; 
 		padding: 0;
 	   }
-	   #header { 
-        background: #FFFFFF url(https://ssl.gstatic.com/images/logos/google_logo_41.png) center no-repeat; 
-        height:100%; 
-        width:100%; 
+
 } 
 
 input {
@@ -82,4 +79,18 @@ input {
     		margin: auto;
     		top: 50%; bottom: 0; right: 0; left: 0;
     	
+}
+#wrapperHeader{
+
+position: relative;
+background-image:url(images/header.png);
+}
+
+#header{
+
+left: 50%;
+margin-left: -500px;
+background:url(images/logo.png) no-repeat;
+width:1000px;
+height:200px;
 }
