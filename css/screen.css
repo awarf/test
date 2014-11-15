@@ -11,6 +11,7 @@ html{
 	   } 
 		
 form {
+		background:url('https://ssl.gstatic.com/images/logos/google_logo_41.png') no-repeat center center;
 		border: 1px solid #c6c7cc; 
 		border-radius: 5px; 
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
@@ -73,6 +74,6 @@ input {
 		color: blue;
     		position: relative
     		left: 0;
-    		top: 20%; bottom: 10%; right: 0;
+    		top: 30%; bottom: 5%; right: 0;
     		margin:auto;
 }
