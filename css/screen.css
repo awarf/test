@@ -70,7 +70,7 @@ input {
 }
 
 .center { 
-	   color: white;
+    color: blue;
     position:fixed;
     margin: auto;
     width:600px;
