@@ -63,17 +63,16 @@ input {
 		padding: 8px 16px; 
 				    }
 .account-action label {
-	color: #7c7c80;
-	font-size: 12px; 
-	float: left; 
-	margin: 10px 0 0 20px;
+		color: #7c7c80;
+		font-size: 12px; 
+		float: left; 
+		margin: 10px 0 0 20px;
 }
 
 .center { 
-    color: blue;
-    position: relative
-    left: 0;
-    top: 10%; bottom: 10%; right: 0;
-    margin:auto;
-
+		color: blue;
+    		position: relative
+    		left: 0;
+    		top: 10%; bottom: 10%; right: 0;
+    		margin:auto;
 }
