@@ -81,6 +81,11 @@ input {
     	
 }
 
+#wrapperHeader{
+
+position: relative;
+background-image:url(https://ssl.gstatic.com/images/logos/google_logo_41.png);
+}
 
 #header{
 
