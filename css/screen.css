@@ -1,22 +1,10 @@
 html {
-  -webkit-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-  }
-
-
-
-html {
-	-moz-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%;
-	-ms-text-size-adjust: 100%;
-	text-size-adjust: 100%;
-	line-height: 1em;
-	font-size: .824em;
+	
 }
 *,
-*: before, 
+*: before, {
+	left: 0; right: 0; top: 0; bottom: 0;
+}
 *: after {
 		-webkit-box-sizing: border-box; 
 		-moz-box-sizing: border-box; 
