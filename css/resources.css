@@ -71,6 +71,7 @@ input {
 		padding: 8px 16px; 
 				    }
 .account-action label {
+		backround:white;
 		color: #7c7c80;
 		font-size: 12px; 
 		float: left; 
