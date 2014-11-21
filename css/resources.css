@@ -18,7 +18,7 @@ section {
 		border-radius: 8px; 
 		font: 14px/ 1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; 
 		overflow: hidden;
-		width: 60%; height:80%;
+		width: 20%; height:90%;
 
 }
 		
@@ -82,7 +82,7 @@ input {
 		color: black;
     		position: relative;
     		margin: auto;
-    		top: 50%; bottom: 0; right: 0; left: 0;
+    		top: 80%; bottom: 0; right: 0; left: 0;
     	
 }
 
