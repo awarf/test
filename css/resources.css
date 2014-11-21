@@ -58,7 +58,7 @@ fieldset {
 		background: #f0f0f2; 
 		border-top: 1px solid #c6c7cc; 
 		padding: 20px; 
-				}
+				}*/
 .account-action .btn {
 		background: -webkit-linear-gradient(# 49708f, #293f50);
 		background: -moz-linear-gradient(# 49708f, #293f50); 
@@ -69,13 +69,13 @@ fieldset {
 		font-weight: bold; 
 		float: left; 
 		padding: 8px 16px; 
-				    }*/
-.account-action label {
+				    }
+/*.account-action label {
 		color: #7c7c80;
 		font-size: 12px; 
 		float: left; 
 		margin: 10px 0 0 20px;
-}
+}*/
 
 .center { 
 		background-color: white;
